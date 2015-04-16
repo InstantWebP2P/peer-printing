@@ -1,2 +1,2 @@
-# peer-print
-Expose internet print service 
+# peer-printing
+Expose internet printing service 
